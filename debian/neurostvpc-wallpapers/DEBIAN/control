@@ -1,0 +1,12 @@
+Package: neurostvpc-wallpapers
+Version: 0.1
+Architecture: all
+Maintainer: Tom Bruno <tbruno@neurostechnology.com>
+Installed-Size: 280
+Conflicts: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.19)
+Replaces: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.19)
+Section: x11
+Priority: optional
+Description: Neuros TVPC Wallpapers
+ The default Wallpapers for Neuros TVPC's Ubuntu Desktop. At the moment the package contains:
+  * Neuros Link Alpha (John Olsen)

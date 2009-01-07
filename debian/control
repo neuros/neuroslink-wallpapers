@@ -1,0 +1,15 @@
+Source: neurostvpc-wallpapers
+Section: x11
+Priority: optional
+Maintainer: Tom Bruno <tbruno@neurostechnology.com>
+Build-Depends: debhelper (>= 5), cdbs, python-dev (>= 2.4), python-distutils-extra, python-central (>= 0.5), xsltproc
+Standards-Version: 3.7.3
+
+Package: neurostvpc-wallpapers
+Architecture: all
+Section: x11
+Conflicts: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.19)
+Replaces: feisty-wallpapers (<< 0.13), gutsy-wallpapers (<< 0.19)
+Description: Neuros TVPC Wallpapers
+ The default Wallpapers for Neuros TVPC's Ubuntu Desktop. At the moment the package contains:
+  * Neuros Link Alpha (John Olsen)
