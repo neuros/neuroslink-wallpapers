@@ -1,2 +1,0 @@
-python:Versions=all
-misc:Depends=gconf2 (>= 2.12.1-1)

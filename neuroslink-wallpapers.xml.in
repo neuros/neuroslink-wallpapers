@@ -2,8 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
   <wallpaper>
-    <_name>NeurosTVPC</_name>
-    <filename>/usr/share/backgrounds/neurostvpc-final-ubuntu.png</filename>
+    <_name>NeurosLink</_name>
+    <filename>/usr/share/backgrounds/neuroslink-final-ubuntu.png</filename>
     <options>zoom</options>
     <pcolor>#684b33</pcolor>
     <scolor>#684b33</scolor>

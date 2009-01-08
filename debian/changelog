@@ -1,3 +1,9 @@
+neuroslink-wallpapers (1.0) intrepid; urgency=low
+
+  * Renamed neuroslink-wallpapers
+
+ -- Tom Bruno <tbruno@neurostechnology.com>  Thu, 08 Jan 2009 10:28:59 -0600
+
 neurostvpc-wallpapers (0.1) intrepid; urgency=low
 
   * Initial release of backgrounds based on ubuntu-wallpapers

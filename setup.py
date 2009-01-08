@@ -13,7 +13,7 @@ if os.path.exists(changelog):
         version = match.group(1)
 
 setup(
-    name = 'neurostvpc-wallpapers',
+    name = 'neuroslink-wallpapers',
     version = version,
     data_files=[('share/backgrounds', glob.glob('*.png')+glob.glob('*.jpg'))
                ],
