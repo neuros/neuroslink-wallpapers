@@ -16,6 +16,6 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../neurostvpc-wallpapers.xml.in.h:1
+#: ../neuroslink-wallpapers.xml.in.h:1
 msgid "Simple Ubuntu"
 msgstr ""

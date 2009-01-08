@@ -17,7 +17,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Rosetta-Export-Date: 2006-11-22 15:18+0000\n"
 
-#: ../neurostvpc-wallpapers.xml.in.h:1
+#: ../neuroslink-wallpapers.xml.in.h:1
 #, fuzzy
 msgid "Simple Ubuntu"
 msgstr "Simple Ubuntu"
